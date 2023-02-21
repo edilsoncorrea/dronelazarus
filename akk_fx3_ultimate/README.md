@@ -1,2 +1,2 @@
 
-[![](figura1.jpeg)](#)
+[![](figura1.jpg)](#)
